@@ -16,6 +16,7 @@ The VoMo Robot Project is a complete voice-controlled robot system consisting of
 
 1. **ESP32 Robot Controller** - Hardware control system with web interface
 2. **AI Voice Processing API** - Python FastAPI service for voice command interpretation
+3. **Gazebo Simulation** :https://github.com/kaarima/voice_to_gazebo.git
 
 This system allows users to control a two-motor robot through voice commands, manual web controls, or automated movement sequences.
 
